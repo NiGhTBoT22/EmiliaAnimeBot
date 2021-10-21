@@ -214,9 +214,6 @@ def start(update: Update, context: CallbackContext):
                   ],
                   [
                   InlineKeyboardButton(text="Help", url=f"https://t.me/{BOT_USERNAME}?start=help")
-                  ],
-                  [
-                  InlineKeyboardButton(text="Sᴏᴜʀᴄᴇ", url="https://github.com/IzumiCypherX/EmiliaAnimeBot")
                   ]
                 ]
             ),
